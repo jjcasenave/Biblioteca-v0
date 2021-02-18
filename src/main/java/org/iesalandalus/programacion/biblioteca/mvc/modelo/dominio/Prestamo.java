@@ -7,6 +7,7 @@
  *pasados por parámetros. Crea los métodos hashCode, equals y toString. Asegurate de que se pasan todos los tests asociados a esta clase. 
  *Realiza el commit correspondiente.
  */
+
 package org.iesalandalus.programacion.biblioteca.mvc.modelo.dominio;
 
 import java.time.LocalDate;
