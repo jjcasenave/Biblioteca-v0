@@ -1,6 +1,6 @@
 # Tarea: Biblioteca IES Al-Ándalus
 ## Profesor: José Ramón Jiménez Reyes
-## Alumno:
+## Alumno: Juan José Casenave Alonso
 
 En el IES Al-Ándalus, para fomentar la lectura, animan al alumnado a que se lea libros de la biblioteca y así consiga puntos para la aplicación ClassDojo que al final de trimestre pueden repercutir en diversos premios. Los puntos obtenidos por el préstamo de cada libro dependerán del número de páginas del libro y del número de días que lo haya tenido prestado. Después de todas las especificaciones y requerimientos anotados, en este **primer spring** de la aplicación se ha decidido abarcar los siguientes:
 
