@@ -2,6 +2,7 @@
  *pasándole los dos anteriores y luego llamará al método comenzar. Realiza el commit correspondiente.
  */
 
+/*prueba*/
 package org.iesalandalus.programacion.biblioteca;
 
 import org.iesalandalus.programacion.biblioteca.mvc.controlador.Controlador;
